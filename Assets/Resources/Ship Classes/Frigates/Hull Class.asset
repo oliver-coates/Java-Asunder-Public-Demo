@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34537afbf8d31e542be63d9144123fc1, type: 3}
+  m_Name: Hull Class
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 3536027577139989715, guid: 5687a7ca3eca6a44f9f0b368404c1d6e, type: 3}
+  speed: 70
+  agility: 75
+  shipType: {fileID: 11400000, guid: 1724e2be3bf510b48a1af5d0a9fcabd3, type: 2}
+  hullDisplacement: 0
+  baseValue: 0

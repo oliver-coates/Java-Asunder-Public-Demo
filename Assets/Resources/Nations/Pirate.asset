@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34122f8937ae54a42a8a8392ccc249bc, type: 3}
+  m_Name: Pirate
+  m_EditorClassIdentifier: 
+  nationName: Pirate
+  nationNameDesc: Pirate
+  shipPrefix: 
+  flag: {fileID: 21300000, guid: 5c97634ff7ed5384ea99f9e4f28c8834, type: 3}

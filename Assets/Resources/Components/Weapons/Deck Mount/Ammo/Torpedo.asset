@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50e4347a4484e54d91a77ddd827beda, type: 3}
+  m_Name: Torpedo
+  m_EditorClassIdentifier: 
+  componentType: {fileID: 11400000, guid: 1f00bba677ed7524793e0d7ce7bd5a72, type: 2}
+  sourceNation: {fileID: 0}
+  price: 100
+  _prefab: {fileID: 7190008238440025179, guid: f831bba5e9e0033479573b7ebdb3636c, type: 3}
+  damage: 80
+  pierce: 90
+  velocity: 0
+  reliability: 50
+  splashEffect: {fileID: 11400000, guid: 2aca9fd35da752446903a9ed8af1280d, type: 2}
+  explosionEffect: {fileID: 11400000, guid: 698ce2e26a165134b9d2c4b52a7de589, type: 2}

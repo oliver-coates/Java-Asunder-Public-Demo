@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f77e4d92f72f833458f5e16457c691fd, type: 3}
+  m_Name: '[L. Armour] Inare Steel Plating'
+  m_EditorClassIdentifier: 
+  componentType: {fileID: 11400000, guid: 18156c33d423a534283411d938883e66, type: 2}
+  sourceNation: {fileID: 11400000, guid: 5dd45c5eb459ef2488c88ab9fee2fea6, type: 2}
+  price: 2500
+  strength: 25

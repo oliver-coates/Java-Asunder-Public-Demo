@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec5ba22323d80a44a86f9b598b7fe6f9, type: 3}
+  m_Name: The Jungle
+  m_EditorClassIdentifier: 
+  displaySprites:
+  - {fileID: 21300000, guid: c7ddb5bdc6843094993a1abc7364c86d, type: 3}
+  - {fileID: 21300000, guid: 0531e8dc0db29014da3217eca2d51480, type: 3}
+  - {fileID: 21300000, guid: b73bc4a64b219b547a5dc69bb5b17d32, type: 3}
+  soundscapes:
+  - {fileID: 11400000, guid: f0dd36ca6ff821e4bab46ddbd2812a60, type: 2}
+  - {fileID: 11400000, guid: 161f43262fc335542855c61a9254b57e, type: 2}

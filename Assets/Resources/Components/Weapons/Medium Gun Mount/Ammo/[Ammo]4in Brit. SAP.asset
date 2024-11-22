@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a50e4347a4484e54d91a77ddd827beda, type: 3}
+  m_Name: '[Ammo]4in Brit. SAP'
+  m_EditorClassIdentifier: 
+  componentType: {fileID: 0}
+  sourceNation: {fileID: 11400000, guid: e4e4966f2da0af447862c514c81b92a5, type: 2}
+  price: 100
+  _prefab: {fileID: 5436418464505265309, guid: e993330899aa1ef48bdcb210b2d85589, type: 3}
+  damage: 50
+  pierce: 50
+  velocity: 36
+  reliability: 75
+  splashEffect: {fileID: 11400000, guid: 2aca9fd35da752446903a9ed8af1280d, type: 2}
+  explosionEffect: {fileID: 11400000, guid: 698ce2e26a165134b9d2c4b52a7de589, type: 2}

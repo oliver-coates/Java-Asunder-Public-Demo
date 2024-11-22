@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9663c2bf304c7cc4cb3cf61746421710, type: 3}
+  m_Name: Fire Started
+  m_EditorClassIdentifier: 
+  _description: Fires have broken out in the {section}.
+  _displaySprite: {fileID: 21300000, guid: 329fd7e2b0be166489baf587d65a5b8a, type: 3}
+  _clipSet: {fileID: 11400000, guid: 5246d9b73022b494fb89972fec9fd1a3, type: 2}
+  _minimumHitSeverity: 20
+  _chanceToOccurPerHitSeverity: 2
+  _minimumDamageToIntegrity: 3
+  _maximumDamageToIntegrity: 6
+  _effectsCaused:
+  - {fileID: 11400000, guid: a4d0bff2cd073ca44a9b91f50b17799d, type: 2}
+  _minimumDamageStartingIntensity: 15
+  _maximumDamageStartingIntensity: 30

@@ -1,0 +1,1250 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &150278845329056436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6227961611873962443}
+  - component: {fileID: 1410190381099228650}
+  m_Layer: 0
+  m_Name: Deck Mount 1
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6227961611873962443
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 150278845329056436}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -33.75, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1410190381099228650
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 150278845329056436}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Rear Deck Mount
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 1f00bba677ed7524793e0d7ce7bd5a72, type: 2}
+  component: {fileID: 0}
+--- !u!1 &1616034192442772221
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3244088517987379511}
+  - component: {fileID: 5398303478430671851}
+  m_Layer: 0
+  m_Name: Additional 1
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3244088517987379511
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616034192442772221}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -7.75, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5398303478430671851
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1616034192442772221}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Rear Room
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 1d66c2a4f9829df44a6245bbb9fec3b2, type: 2}
+  component: {fileID: 0}
+--- !u!1 &1976738487937561635
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5599204407965488067}
+  - component: {fileID: 5298918550947293716}
+  m_Layer: 0
+  m_Name: Damage Control
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5599204407965488067
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976738487937561635}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 1.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946088028524806857}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5298918550947293716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1976738487937561635}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Damage Control
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: ac49d6205d2ea894aa15e772de5006a2, type: 2}
+  component: {fileID: 11400000, guid: f2100a4c24d84ed468410867a3d909ea, type: 2}
+--- !u!1 &2163997216263141867
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3603756436142358816}
+  - component: {fileID: 5160432588531642400}
+  m_Layer: 0
+  m_Name: Bridge
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3603756436142358816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2163997216263141867}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 10.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946088028524806857}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5160432588531642400
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2163997216263141867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Bridge
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 515cac48d72b0e3498a0544aac64b120, type: 2}
+  component: {fileID: 11400000, guid: 6009ceb7244862e4ba577a24ced4e851, type: 2}
+--- !u!1 &2710673452750201735
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2411910429692222651}
+  m_Layer: 0
+  m_Name: Sections
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2411910429692222651
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2710673452750201735}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 4398328715097760418}
+  - {fileID: 946088028524806857}
+  - {fileID: 1592050452780668756}
+  m_Father: {fileID: 5712321518652783385}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1 &2734514401933060139
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5663231730516626674}
+  - component: {fileID: 5222031493355725165}
+  - component: {fileID: 8299763727284631537}
+  m_Layer: 0
+  m_Name: Front Gun
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5663231730516626674
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734514401933060139}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 19.369999, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946088028524806857}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5222031493355725165
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734514401933060139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Fore Gun Mount
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 5561a009a56c8b441980ae726686d169, type: 2}
+  component: {fileID: 11400000, guid: 841cd6747ba1b1f41ba8b0e91f332163, type: 2}
+--- !u!114 &8299763727284631537
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2734514401933060139}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 809bc5502eb353444bdd590f57f633ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _restrictorEnabled: 1
+  _minAngle: 130
+  _maxAngle: 230
+  _gizmosSize: 2
+--- !u!1 &3536027577139989715
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5712321518652783385}
+  - component: {fileID: 1055865586913166770}
+  - component: {fileID: 2076883527109525146}
+  m_Layer: 0
+  m_Name: Hull Class Frigate
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5712321518652783385
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3536027577139989715}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -50, y: 0, z: -10}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 6638605622202955806}
+  - {fileID: 2411910429692222651}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1055865586913166770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3536027577139989715}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc0a2027842b6ce4e8366b0c67c782da, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shipData: {fileID: 0}
+  AI: {fileID: 0}
+  _isSinking: 0
+  sinkLerpValue: 0
+  _attackOrder: 0
+  UIDisplayOffset: -70
+  shipSpriteRenderer: {fileID: 2387209709488051191}
+  shipDirectionLine: {fileID: 8679246536002332189}
+  shipTargetLine: {fileID: 4935161411189252890}
+  torpedoLaunchLine: {fileID: 1222389179172236173}
+  armourSlot: {fileID: 1008013967335852858}
+  sections: []
+  componentSlots: []
+  rb: {fileID: 2076883527109525146}
+  bridgeComponentSlot: {fileID: 5160432588531642400}
+  bridge: {fileID: 0}
+  armourType: {fileID: 0}
+  damageControls: []
+  engine: {fileID: 0}
+  fireControl: {fileID: 0}
+  _rudder: 0
+  _targetSpeed: 0
+  _target: {fileID: 0}
+--- !u!50 &2076883527109525146
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3536027577139989715}
+  m_BodyType: 0
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 100
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 0
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!1 &3784667007866536742
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6836467384597970705}
+  - component: {fileID: 7145576366261706536}
+  m_Layer: 0
+  m_Name: Electronic Room 1
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6836467384597970705
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3784667007866536742}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 4.33, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946088028524806857}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7145576366261706536
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3784667007866536742}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Main Electronics Room
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: c5f142554ef771d40a2fda165d4ac5d0, type: 2}
+  component: {fileID: 11400000, guid: 76888f1378ac7e3488584ab77ce47932, type: 2}
+--- !u!1 &4000044268225090703
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1592050452780668756}
+  - component: {fileID: 8565252253077060974}
+  - component: {fileID: 7221516226507851290}
+  m_Layer: 0
+  m_Name: Aft
+  m_TagString: ShipSection
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1592050452780668756
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4000044268225090703}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 3094068597493143418}
+  - {fileID: 1689563904903251209}
+  - {fileID: 2735281575506572058}
+  - {fileID: 3244088517987379511}
+  - {fileID: 6227961611873962443}
+  - {fileID: 2543431574223004868}
+  - {fileID: 4237514697331216143}
+  - {fileID: 676452137042818816}
+  m_Father: {fileID: 2411910429692222651}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &8565252253077060974
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4000044268225090703}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: -4.3, y: 0}
+      - {x: -4, y: -15}
+      - {x: -3, y: -36}
+      - {x: 3, y: -36}
+      - {x: 4, y: -15}
+      - {x: 4.3, y: 0}
+  m_UseDelaunayMesh: 0
+--- !u!114 &7221516226507851290
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4000044268225090703}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 471a80cbb1b72d74091a5a323ee768cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sectionName: Aft
+  ship: {fileID: 0}
+  state:
+    _integrity: 0
+    _effectivenessMultiplier: 0
+    permanentIntegrityDamage: 0
+  slots: []
+  _smokeEmitter: {fileID: 4529926536407976987}
+--- !u!1 &4363488878373959247
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2543431574223004868}
+  - component: {fileID: 5296356687967264169}
+  m_Layer: 0
+  m_Name: Deck Mount 2
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2543431574223004868
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4363488878373959247}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -3.45, y: -15.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5296356687967264169
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4363488878373959247}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Port Deck Mount
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 1f00bba677ed7524793e0d7ce7bd5a72, type: 2}
+  component: {fileID: 0}
+--- !u!1 &4489480450284354487
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 946088028524806857}
+  - component: {fileID: 8273333027836627616}
+  - component: {fileID: 927905300724855147}
+  m_Layer: 0
+  m_Name: Fore
+  m_TagString: ShipSection
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &946088028524806857
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4489480450284354487}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 9047730866344741927}
+  - {fileID: 3603756436142358816}
+  - {fileID: 6836467384597970705}
+  - {fileID: 4337437862048496048}
+  - {fileID: 5663231730516626674}
+  - {fileID: 5599204407965488067}
+  m_Father: {fileID: 2411910429692222651}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!60 &8273333027836627616
+PolygonCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4489480450284354487}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_ForceSendLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ForceReceiveLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_ContactCaptureLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_CallbackLayers:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 0, y: 36.5}
+      - {x: -3, y: 30}
+      - {x: -4.4, y: 15}
+      - {x: -4.4, y: 0}
+      - {x: 4.4, y: 0}
+      - {x: 4.4, y: 15}
+      - {x: 3, y: 30}
+  m_UseDelaunayMesh: 0
+--- !u!114 &927905300724855147
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4489480450284354487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 471a80cbb1b72d74091a5a323ee768cf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sectionName: Fore
+  ship: {fileID: 0}
+  state:
+    _integrity: 0
+    _effectivenessMultiplier: 0
+    permanentIntegrityDamage: 0
+  slots: []
+  _smokeEmitter: {fileID: 7611683261401749318}
+--- !u!1 &5790568902815885808
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4398328715097760418}
+  - component: {fileID: 1008013967335852858}
+  m_Layer: 0
+  m_Name: Armour
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4398328715097760418
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5790568902815885808}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 2411910429692222651}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1008013967335852858
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5790568902815885808}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Armour
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 18156c33d423a534283411d938883e66, type: 2}
+  component: {fileID: 11400000, guid: 450a0ad02daf0de4d9c190eedd705035, type: 2}
+--- !u!1 &7723331787766325343
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1689563904903251209}
+  - component: {fileID: 7272643855545225815}
+  m_Layer: 0
+  m_Name: Engine
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1689563904903251209
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723331787766325343}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -18.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7272643855545225815
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7723331787766325343}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Engine Room
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: f2721a9e6f1c87c45a6ccf671347b9c7, type: 2}
+  component: {fileID: 11400000, guid: 461aa4652e0511a48b8e87d6abe487f3, type: 2}
+--- !u!1 &7751553943424693175
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 676452137042818816}
+  - component: {fileID: 321064160569781205}
+  - component: {fileID: 2590986013190500818}
+  m_Layer: 0
+  m_Name: Rear Light Gun
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &676452137042818816
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751553943424693175}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalPosition: {x: 0, y: -24.880001, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+--- !u!114 &321064160569781205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751553943424693175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Rear Gun Mount
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 4749d3654fea5824dbb62d2bcfc5d9e0, type: 2}
+  component: {fileID: 11400000, guid: 6fde4f070e0425346968a48b84814480, type: 2}
+--- !u!114 &2590986013190500818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7751553943424693175}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 809bc5502eb353444bdd590f57f633ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _restrictorEnabled: 1
+  _minAngle: 120
+  _maxAngle: 240
+  _gizmosSize: 2
+--- !u!1 &7903304595399901650
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4237514697331216143}
+  - component: {fileID: 7256238670439207797}
+  m_Layer: 0
+  m_Name: Deck Mount 3
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4237514697331216143
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7903304595399901650}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 3.45, y: -15.5, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7256238670439207797
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7903304595399901650}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Starboard Deck Mount
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 1f00bba677ed7524793e0d7ce7bd5a72, type: 2}
+  component: {fileID: 0}
+--- !u!1 &8109193590445984590
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2735281575506572058}
+  - component: {fileID: 8191409361716821034}
+  m_Layer: 0
+  m_Name: Hold
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2735281575506572058
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109193590445984590}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: -3.25, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 1592050452780668756}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8191409361716821034
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8109193590445984590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Hold
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: 785fb5be2a936a842beefd8182134eca, type: 2}
+  component: {fileID: 0}
+--- !u!1 &8997232532124010028
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4337437862048496048}
+  - component: {fileID: 2505276452980917179}
+  m_Layer: 0
+  m_Name: Electronic Room 2
+  m_TagString: Untagged
+  m_Icon: {fileID: -964228994112308473, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4337437862048496048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8997232532124010028}
+  serializedVersion: 2
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 6, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 946088028524806857}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2505276452980917179
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8997232532124010028}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 46a247ff27ca6fa468b49a749dd149c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  slotName: Secondary Electronics Room
+  shipSection: {fileID: 0}
+  componentType: {fileID: 11400000, guid: c5f142554ef771d40a2fda165d4ac5d0, type: 2}
+  component: {fileID: 0}
+--- !u!1001 &2999707811696898743
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 946088028524806857}
+    m_Modifications:
+    - target: {fileID: 3311066659215708916, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_Name
+      value: Ship Smoke Emitter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4612596163211372017, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: 7.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 2.02
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+--- !u!198 &7611683261401749318 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 4612596163211372017, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+  m_PrefabInstance: {fileID: 2999707811696898743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &9047730866344741927 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+  m_PrefabInstance: {fileID: 2999707811696898743}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &5127362950042911549
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 5712321518652783385}
+    m_Modifications:
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2738261175553494977, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_Name
+      value: Manatory Ship Elements
+      objectReference: {fileID: 0}
+    - target: {fileID: 7352443028845924554, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 3cf01c9226408b74b937658cb5351bac, type: 3}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+--- !u!120 &1222389179172236173 stripped
+LineRenderer:
+  m_CorrespondingSourceObject: {fileID: 6331710420022798512, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+  m_PrefabInstance: {fileID: 5127362950042911549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!212 &2387209709488051191 stripped
+SpriteRenderer:
+  m_CorrespondingSourceObject: {fileID: 7352443028845924554, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+  m_PrefabInstance: {fileID: 5127362950042911549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!120 &4935161411189252890 stripped
+LineRenderer:
+  m_CorrespondingSourceObject: {fileID: 240162236061458471, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+  m_PrefabInstance: {fileID: 5127362950042911549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &6638605622202955806 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 1948121076305230627, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+  m_PrefabInstance: {fileID: 5127362950042911549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!120 &8679246536002332189 stripped
+LineRenderer:
+  m_CorrespondingSourceObject: {fileID: 4565222660903789856, guid: ae0dad7f44822e449845c60fd10960b8, type: 3}
+  m_PrefabInstance: {fileID: 5127362950042911549}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1001 &9141942114261510634
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1592050452780668756}
+    m_Modifications:
+    - target: {fileID: 3311066659215708916, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_Name
+      value: Ship Smoke Emitter
+      objectReference: {fileID: 0}
+    - target: {fileID: 4612596163211372017, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: ShapeModule.m_Scale.x
+      value: 8.63
+      objectReference: {fileID: 0}
+    - target: {fileID: 4612596163211372017, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: ShapeModule.m_Scale.y
+      value: 35.91
+      objectReference: {fileID: 0}
+    - target: {fileID: 4612596163211372017, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: ShapeModule.m_Position.y
+      value: 20
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -37.22
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+--- !u!4 &3094068597493143418 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6066037629256253072, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+  m_PrefabInstance: {fileID: 9141942114261510634}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &4529926536407976987 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 4612596163211372017, guid: b7cd51571fc66544cbc856526b44694f, type: 3}
+  m_PrefabInstance: {fileID: 9141942114261510634}
+  m_PrefabAsset: {fileID: 0}

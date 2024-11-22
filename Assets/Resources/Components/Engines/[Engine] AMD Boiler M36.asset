@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4905b2bc9505e2c4cbade0e9c277eead, type: 3}
+  m_Name: '[Engine] AMD Boiler M36'
+  m_EditorClassIdentifier: 
+  componentType: {fileID: 11400000, guid: f2721a9e6f1c87c45a6ccf671347b9c7, type: 2}
+  sourceNation: {fileID: 11400000, guid: 968bb892f8f80cd4890f696d12932e2e, type: 2}
+  price: 7800
+  strength: 80
+  agility: 72
+  reliability: 75

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4df4ea4e6fce3a04cbb3e4a9507bb30a, type: 3}
+  m_Name: Battle
+  m_EditorClassIdentifier: 
+  loopSound: {fileID: 8300000, guid: 9cb948bcb155a69488371cb7ae9dc3d6, type: 3}
+  hasRandomSounds: 1
+  randomSounds:
+  - {fileID: 8300000, guid: 243fbcf39badb4148b304c6bff0099c8, type: 3}
+  - {fileID: 8300000, guid: 0aaeecbc9be6cb44c8c1da899c0f5866, type: 3}
+  - {fileID: 8300000, guid: b31f708d35ee16f4689d9a12d2712b18, type: 3}
+  - {fileID: 8300000, guid: 9dd47a70387808e49a0afc924234c1f1, type: 3}
+  - {fileID: 8300000, guid: 59f8a473c100a71459fa583e22f8886c, type: 3}
+  randomSoundMinInterval: 0.1
+  randomSoundMaxInterval: 0.3

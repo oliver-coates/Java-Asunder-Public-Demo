@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b19184c7404124e40b9dc794dea3ae32, type: 3}
+  m_Name: Ship Configuration
+  m_EditorClassIdentifier: 
+  _minShipSpeedFromStrength: 300000
+  _maxShipSpeedFromStrength: 1200000
+  _minTurnSpeedFromAgility: 17000
+  _maxTurnSpeedFromAgility: 25000
+  _minEngineSpoolSpeedFromAgility: 0.01
+  _maxEngineSpoolSpeedFromAgility: 0.05
+  _engineSpoolDownSpeedMultilier: 1.25
+  _shipDrag: 15
+  _shipDragAngular: 1.15
+  _minFireControlSpeedFromSpeed: 0.75
+  _maxFireControlSpeedFromSpeed: 3.5
+  _fireControlMinEffectiveDistance: 700
+  _fireControlMaxEffectiveDistance: 7500
+  _fireControlConfidenceLossFromEnemyVelocityFactor: 0.125
+  _fireControlRandomnessMultiplierVariance: 0.35
+  _gunMinReloadTime: 0.05
+  _gunMaxReloadTime: 20
+  _gunMinTurnSpeed: 20
+  _gunMaxTurnSpeed: 100
+  _gunMinInaccuracy: 0.5
+  _gunMaxInaccuracy: 7
+  _shellMinVelocity: 150
+  _shellMaxVelocity: 1200
+  _shellMinDudChance: 0.01
+  _shellMaxDudChance: 0.1
+  _damageControlFireMinEffectiveness: 0.75
+  _damageControlFireMaxEffectiveness: 2.25
+  _damageControlFloodingMinEffectiveness: 0.35
+  _damageControlFloodingMaxEffectiveness: 1.1
+  _damageControlMedianPlayerRoll: 10
+  _damageControlPlayerIntensityReductionPerPositiveRoll: 0.5
+  _armourStrengthMultiplier: 1.25
